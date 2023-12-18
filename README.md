@@ -17,7 +17,9 @@
 
 | 날짜 | 진행 상황 | 
 | -------- | -------- |
-| 23.12.16(토) | Below the surface |
+| 23.12.16(토) | Below the surface. |
+| 23.12.19(화) | Swift's downsides. |
 
 ## 📖 스터디 리스트
-- [Below the surface](https://github.com/devKobe24/SwiftInDepth/blob/main/contents/231216-BelowtheSurface.md)
+- [Below the surface.](https://github.com/devKobe24/SwiftInDepth/blob/main/contents/231216-BelowtheSurface.md)
+- [Swift's downsides.](https://github.com/devKobe24/SwiftInDepth/blob/main/contents/231219-SwiftDownside.md)
